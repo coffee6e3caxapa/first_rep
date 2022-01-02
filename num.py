@@ -10,6 +10,9 @@ def mul(a,b):
 def hello():
     pass
 
+def hello():
+    print('hello')
+
 if __name__ == '__main__':
     print(num(2))
     print(minus(5,4))
