@@ -16,6 +16,7 @@ def hello():
 def my_func():
     print('trening push github')
 
+
 if __name__ == '__main__':
     print(num(2))
     print(minus(5,4))
